@@ -1,0 +1,6 @@
+Thhis line is taken from [1]. This is also adapted from[2, 1].
+This too taken from [2].
+
+References:
+[1]  s.saini,s.sushank, "How to?",how to do this,1,2,1-2,september,2017.
+[2]  s.saini,s.sushank, "How to?",how to do this,1,2,1-2,september,2017.
